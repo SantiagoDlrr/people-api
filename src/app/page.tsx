@@ -1,5 +1,4 @@
 'use client'
-import Image from "next/image";
 import usePeopleApi from "./hooks/usePeopleApi";
 
 /*
